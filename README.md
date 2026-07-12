@@ -14,19 +14,14 @@
 <br/>
 🙋‍♂️ About Me
 
-yamlName:        K Venkat Sai Reddy
-Role:        B.Tech Student | Full Stack Developer
-Focus:       Frontend, Backend & AI-powered applications
-Learning:    Next.js, Node.js, Firebase, System Design
-Currently:   Building ai-career-guidance & portfolio-website
-Fun fact:    I ship fast and I love clean, minimal UI ⚡
 
-
-🔭 Currently working on AI Career Guidance Platform
-🌱 Leveling up in System Design & Cloud
-💬 Ask me about React, Node.js, Firebase, Python
+🎓 Name: K Venkat Sai Reddy — B.Tech Student & Full Stack Developer
+💻 Focus: Frontend, Backend & AI-powered applications
+🌱 Learning: Next.js, Node.js, Firebase, System Design
+🔭 Currently building: AI Career Guidance Platform & Portfolio Website
+💬 Ask me about: React, Node.js, Firebase, Python
 📫 Reach me: venkatsai1772006@gmail.com
-⚡ Fun fact: I debug faster with coffee ☕
+⚡ Fun fact: I ship fast and debug faster with coffee ☕
 
 
 <br/>
@@ -45,23 +40,6 @@ Tools & Platforms
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,figma,postman" />
 
-</div>
-<br/>
-🚀 Featured Projects
-
-<div align="center">
-<a href="https://github.com/VenkatSai177/ai-career-guidance">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VenkatSai177&repo=ai-career-guidance&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/VenkatSai177/portfolio-website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VenkatSai177&repo=portfolio-website&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/VenkatSai177/faculty-automation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VenkatSai177&repo=faculty-automation&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/VenkatSai177/REPO-NAME-4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VenkatSai177&repo=REPO-NAME-4&theme=tokyonight&hide_border=true" />
-</a>
 </div>
 <br/>
 📊 GitHub Stats
