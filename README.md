@@ -1,447 +1,266 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║                  VENKAT SAI • GITHUB PROFILE                       ║
-║        Replace YOUR_GITHUB_USERNAME with your GitHub username       ║
-╚══════════════════════════════════════════════════════════════════════╝
--->
+<!-- Replace every YOUR_GITHUB_USERNAME with your GitHub username -->
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1020,40:1E1B4B,75:4C1D95,100:7C3AED&height=260&section=header&text=VENKAT%20SAI&fontSize=70&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Product%20Builder&descAlignY=62&descSize=20&descColor=C4B5FD&stroke=A78BFA&strokeWidth=1"/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:111827,65:1E3A8A,100:7C3AED&height=220&section=header&text=VENKAT%20SAI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20Full%20Stack%20%7C%20Software%20Engineer&descAlignY=61&descSize=20&descColor=CBD5E1"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=850&height=50&lines=%3E+Building+intelligent+digital+experiences+%F0%9F%A4%96;%3E+Turning+ambitious+ideas+into+shipped+products+%F0%9F%9A%80;%3E+AI+%C2%B7+Full+Stack+%C2%B7+Computer+Vision+%C2%B7+Cloud;%3E+Always+learning.+Always+building.+%F0%9F%94%A5" alt="Typing animation"/>
 </a>
 
 <br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=800&lines=Building+intelligent+digital+experiences+%F0%9F%A4%96;Full+Stack+Developer+in+the+making+%F0%9F%9A%80;AI+%7C+ML+%7C+Web+%7C+Cloud;Turning+ideas+into+real-world+products+%E2%9A%A1;Always+learning.+Always+building.+%F0%9F%94%A5" alt="Typing animation"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge&labelColor=0B1020"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=2563EB&labelColor=0B1020"/></a>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-22C55E?style=for-the-badge&labelColor=0B1020"/>
 
 <br><br>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" />
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=2563EB" />
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-Explorer-06B6D4?style=for-the-badge" />
-</a>
-
-<br><br>
-
-<a href="mailto:venkatsai1772006@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-venkatsai1772006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://instagram.com/_venkat_sai_reddy_17_">
-  <img src="https://img.shields.io/badge/INSTAGRAM-%40_venkat__sai__reddy__17_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GITHUB-@YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="mailto:venkatsai1772006@gmail.com"><img src="https://img.shields.io/badge/EMAIL-venkatsai1772006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020"/></a>
+<a href="https://instagram.com/_venkat_sai_reddy_17_"><img src="https://img.shields.io/badge/INSTAGRAM-@__venkat__sai__reddy__17__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B1020"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-YOUR_GITHUB_USERNAME-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020"/></a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=2&section=header"/>
 
-# 👋 Hey, I'm Venkat Sai
-
-I'm a **B.Tech student, aspiring Full Stack Developer and AI/ML builder** passionate about creating technology that solves real problems.
-
-I enjoy working at the intersection of:
-
-```text
-        🤖 Artificial Intelligence
-                 +
-        🌐 Full Stack Development
-                 +
-        ☁️ Cloud & Backend Systems
-                 +
-        🎨 Modern UI / UX
-                 +
-        🚀 Product Building
-```
-
-My goal is simple:
-
-> **Build useful technology, learn continuously, and turn ambitious ideas into working products.**
-
-Currently focused on becoming a strong **Full Stack + AI Engineer** while building real-world applications, hackathon prototypes and intelligent systems.
-
----
-
-## ⚡ What I'm Building
+## 👋 &nbsp;About Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-### 🤖 AI Engineering
+I'm a **B.Tech student** who builds at the intersection of **AI** and **Full Stack engineering**: shipping products that solve real problems, from career guidance to disaster intelligence to crowd safety.
 
-- AI-powered applications
-- Gemini / LLM integrations
-- RAG systems
-- Computer Vision
-- AI assistants
-- Recommendation systems
-- Intelligent dashboards
+> **Build useful technology. Learn continuously. Turn ambitious ideas into working products.**
+
+```yaml
+name:      Venkat Sai
+role:      AI + Full Stack Engineer (in the making)
+focus:     [LLMs, RAG, Computer Vision, Next.js]
+mindset:   Ship fast, iterate faster
+currently: Leveling up system design & production AI
+```
 
 </td>
+<td width="40%" align="center" valign="middle">
 
-<td width="50%">
-
-### 🌐 Full Stack
-
-- Next.js applications
-- React interfaces
-- TypeScript
-- FastAPI backends
-- Firebase / databases
-- Authentication systems
-- Responsive UI/UX
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=300&height=140&lines=%7B+idea+%7D;%7B+research+%7D;%7B+design+%7D;%7B+build+%7D;%7B+test+%7D;%7B+improve+%7D;%F0%9F%9A%80+SHIP"/>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=2&section=header"/>
 
-# 🚀 Featured Projects
+## ⚡ &nbsp;What I Build
 
-## 🧭 Margdarshak — AI Career Guidance
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> **AI-powered career guidance platform designed to help students discover suitable career paths, skills, courses and opportunities.**
+### 🤖 AI Engineering
+`LLM apps` `Gemini` `RAG` `Computer Vision`
+`AI assistants` `Recommendation systems` `Smart dashboards`
 
-**Highlights**
+</td>
+<td width="50%" valign="top">
 
-- 🎯 AI Career Recommendations
-- 📊 Career Probability & Growth Analytics
-- 🧠 AI Tutor / Mentor
-- 👨‍🏫 Mentor Portal
-- 🧑‍🎓 Student Portal
-- 🛡️ Admin Portal
-- 📄 Resume Builder
-- 🎓 Scholarship Recommendations
-- 💼 Jobs & Internships
-- 🔥 XP / Streak / Challenge System
-- 🗣️ Voice & multilingual support
-- 📱 Responsive PWA-oriented experience
+### 🌐 Full Stack
+`Next.js` `React` `TypeScript` `FastAPI`
+`Firebase` `Auth systems` `Responsive UI/UX`
 
-**Stack**
+</td>
+</tr>
+</table>
 
-`Next.js` `TypeScript` `React` `Tailwind CSS` `Firebase` `Gemini` `Chart.js`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=2&section=header"/>
 
----
+## 🚀 &nbsp;Featured Projects
 
-## 🌪️ CYCLONOVA — AI Cyclone Intelligence
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> **Smart India Hackathon 2026 concept for identifying, classifying and predicting tropical cyclone patterns using AI and multi-source satellite data.**
+### 🧭 Margdarshak
+**AI Career Guidance Platform**
 
-### Core Vision
+Helps students discover career paths, skills, courses, scholarships and opportunities.
+
+- 🎯 AI career recommendations + growth analytics
+- 🧠 AI tutor / mentor, resume builder
+- 👥 Student, Mentor & Admin portals
+- 🔥 XP, streaks & challenges
+- 🗣️ Voice + multilingual, PWA-ready
+
+`Next.js` `TypeScript` `Tailwind` `Firebase` `Gemini` `Chart.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌪️ CYCLONOVA
+**AI Cyclone Intelligence** · *SIH 2026 concept*
+
+Detect, classify and predict tropical cyclones from multi-source satellite data.
 
 ```text
-Satellite Data
-      ↓
-Data Processing
-      ↓
-AI / ML Analysis
-      ↓
-Cyclone Detection
-      ↓
-Classification
-      ↓
-Prediction
-      ↓
-Early Warning & Decision Support
+Satellite → Processing → ML Analysis
+   → Detection → Classification
+   → Prediction → Early Warning
 ```
 
-**Focus**
+`AI` `Satellite Data` `Computer Vision` `Disaster Mgmt`
 
-`Artificial Intelligence` `Satellite Data` `Computer Vision` `Machine Learning` `Disaster Management`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
-
-## 🛡️ SENTINEL.AI — Crowd Safety Intelligence
-
-> **AI-powered crowd and event safety monitoring system.**
-
-### Features
+### 🛡️ SENTINEL.AI
+**Crowd Safety Intelligence**
 
 - 👁️ Real-time crowd detection
 - 🚨 Risk-zone identification
-- 📹 Recorded crowd-video analysis
+- 📹 Recorded video analysis
 - 🆘 Panic simulation
-- 📈 Live crowd analytics
-- 🔥 Dynamic safety interface
-- 🎙️ Voice / multilingual interaction
+- 🎙️ Voice / multilingual interface
 
-**Stack**
+`Python` `FastAPI` `Next.js` `Vision API` `Gemini`
 
-`Python` `FastAPI` `Next.js` `React` `Tailwind` `Computer Vision` `Gemini` `Vision API`
+</td>
+<td width="50%" valign="top">
 
----
-
-## 🧠 IRA — Personal AI Assistant
-
-> **A desktop AI assistant designed to interact with the operating system through voice and automation.**
+### 🧠 IRA
+**Voice-driven Desktop AI Assistant**
 
 ```text
-🎙️ "Hey IRA"
-       ↓
-   Voice Input
-       ↓
- Intent Recognition
-       ↓
- ┌───────────────┐
- │ Open Apps     │
- │ Search Web    │
- │ Play YouTube  │
- │ Dictation     │
- │ Write Code    │
- │ Automation    │
- └───────────────┘
+"Hey IRA" → Voice → Intent
+  → Open apps · Web search
+  → YouTube · Dictation
+  → Code writing · Automation
 ```
 
-**Stack**
+`Python` `SpeechRecognition` `pyttsx3` `PyAutoGUI` `Win32`
 
-`Python` `Speech Recognition` `pyttsx3` `PyAutoGUI` `Win32` `Automation`
+</td>
+</tr>
+</table>
 
----
+<details>
+<summary><b>📚 &nbsp;More: RAG & Local LLM experiments</b></summary>
+<br>
 
-## 📚 RAG AI Systems
+Exploring local LLMs, embeddings and retrieval-augmented generation: **Ollama · Hugging Face · Qwen · ChromaDB · Embeddings**
 
-> **Experimenting with local LLMs, embeddings and retrieval-augmented generation.**
+</details>
 
-**Explored**
+<!-- Optional: swap in live pinned repo cards (replace REPO_NAME with your repo names)
+<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=transparent&title_color=A78BFA&text_color=CBD5E1&icon_color=22D3EE&border_color=312E81&bg_color=0B1020"/></a>
+-->
 
-- 🦙 Ollama
-- 🤗 Hugging Face
-- 🧠 Qwen
-- 🔎 Embeddings
-- 🗃️ ChromaDB
-- 📚 Retrieval-Augmented Generation
-- 💻 Local LLM workflows
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=2&section=header"/>
 
----
-
-# 🧰 Tech Arsenal
+## 🧰 &nbsp;Tech Arsenal
 
 <div align="center">
 
-### 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,sql&perline=7" />
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=6" />
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,mongodb,mysql,postgres&perline=6" />
-
-### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&perline=6" />
-
-### ☁️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,googlecloud,docker&perline=7" />
+| | |
+|:---|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,sql&theme=dark&perline=7"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark&perline=6"/> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,mongodb,mysql,postgres&theme=dark&perline=6"/> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark&perline=6"/> |
+| **Tools & Cloud** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,googlecloud,docker&theme=dark&perline=7"/> |
 
 </div>
 
----
-
-# 🧠 Skills Matrix
+<details>
+<summary><b>🧠 &nbsp;Full skills matrix</b></summary>
+<br>
 
 | Domain | Technologies |
 |---|---|
-| **Programming** | Python • Java • JavaScript • TypeScript • SQL |
-| **Frontend** | React • Next.js • Tailwind CSS • Bootstrap |
-| **Backend** | FastAPI • Node.js • REST APIs |
-| **AI / ML** | Gemini • Machine Learning • RAG • LLMs • Computer Vision |
-| **Computer Vision** | OpenCV • MediaPipe • YOLO |
-| **Databases** | Firebase • Firestore • MySQL • MongoDB • ChromaDB |
-| **Cloud** | Google Cloud • Vercel • Firebase |
-| **Development** | Git • GitHub • VS Code • Figma |
-| **Networking** | Cisco Packet Tracer • CCNA fundamentals |
-| **Design** | UI/UX • Responsive Design • Design Systems |
+| **AI / ML** | Gemini · Machine Learning · RAG · LLMs |
+| **Computer Vision** | OpenCV · MediaPipe · YOLO |
+| **Databases** | Firebase · Firestore · MySQL · MongoDB · ChromaDB |
+| **Networking** | Cisco Packet Tracer · CCNA fundamentals |
+| **Design** | UI/UX · Responsive Design · Design Systems |
 
----
+</details>
 
-# 🏗️ My Development Philosophy
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=2&section=header"/>
 
-```text
-        IDEA
-         │
-         ▼
-   ┌─────────────┐
-   │   RESEARCH  │
-   └──────┬──────┘
-          │
-          ▼
-   ┌─────────────┐
-   │   DESIGN    │
-   └──────┬──────┘
-          │
-          ▼
-   ┌─────────────┐
-   │   BUILD     │
-   └──────┬──────┘
-          │
-          ▼
-   ┌─────────────┐
-   │   TEST      │
-   └──────┬──────┘
-          │
-          ▼
-   ┌─────────────┐
-   │   IMPROVE   │
-   └──────┬──────┘
-          │
-          ▼
-        🚀 SHIP
-```
-
----
-
-# 📊 GitHub Analytics
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0B1020&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&ring_color=7C3AED"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8&bg_color=0B1020&title_color=A78BFA&text_color=CBD5E1"/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-
-</div>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0B1020&ring=7C3AED&fire=F97316&currStreakLabel=22D3EE&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"/>
 
 <br>
 
-<div align="center">
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0B1020&color=A78BFA&line=7C3AED&point=22D3EE&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
----
+### 🏆 &nbsp;Trophies
 
-# 📈 Contribution Graph
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
+</div>
+
+### 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"/>
+</picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=2&section=header"/>
+
+## 🎯 &nbsp;2026 Roadmap
+
+| | Goal | Progress |
+|:-:|---|---|
+| ✅ | Build AI-powered applications | ![](https://geps.dev/progress/100?dangerColor=7C3AED&warningColor=7C3AED&successColor=7C3AED) |
+| ✅ | Explore Computer Vision & hackathons | ![](https://geps.dev/progress/100?dangerColor=7C3AED&warningColor=7C3AED&successColor=7C3AED) |
+| 🔄 | Master Next.js + TypeScript | ![](https://geps.dev/progress/65?dangerColor=2563EB&warningColor=2563EB&successColor=2563EB) |
+| 🔄 | Strengthen DSA | ![](https://geps.dev/progress/50?dangerColor=2563EB&warningColor=2563EB&successColor=2563EB) |
+| 🔄 | Build production-grade AI systems | ![](https://geps.dev/progress/40?dangerColor=2563EB&warningColor=2563EB&successColor=2563EB) |
+| 🚀 | Contribute to open source | ![](https://geps.dev/progress/15?dangerColor=06B6D4&warningColor=06B6D4&successColor=06B6D4) |
+| 🚀 | Ship products used by real people | ![](https://geps.dev/progress/30?dangerColor=06B6D4&warningColor=06B6D4&successColor=06B6D4) |
+
+## 🌱 &nbsp;Currently Learning
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</a>
+`Advanced TypeScript` · `Next.js Architecture` · `System Design` · `DSA` · `LLM Engineering` · `RAG` · `Cloud Architecture` · `Production AI`
 
 </div>
 
----
+## 💡 &nbsp;Beyond Code
 
-# 🐍 Contribution Snake
+📸 Photography &nbsp;·&nbsp; 🎨 UI/UX Design &nbsp;·&nbsp; 🧪 AI Experimentation &nbsp;·&nbsp; 🏆 Hackathons &nbsp;·&nbsp; 🌐 Web Experiences &nbsp;·&nbsp; 🔬 New Tech
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=2&section=header"/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+## 🤝 Let's Connect
 
-</div>
-
----
-
-# 🎯 2026 Roadmap
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                    VENKAT SAI • ROADMAP                    │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  ✅ Build AI-powered applications                          │
-│  ✅ Explore Computer Vision                                │
-│  ✅ Build Full Stack projects                              │
-│  ✅ Participate in Hackathons                              │
-│                                                            │
-│  🔄 Master Advanced Next.js + TypeScript                   │
-│  🔄 Strengthen Data Structures & Algorithms                │
-│  🔄 Build production-grade AI systems                      │
-│                                                            │
-│  🚀 Become a strong Full Stack Engineer                    │
-│  🚀 Become an AI Engineer                                  │
-│  🚀 Contribute to Open Source                             │
-│  🚀 Build products used by real people                    │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-`Advanced TypeScript` • `Next.js Architecture` • `System Design` •
-`DSA` • `LLM Engineering` • `RAG` • `Cloud Architecture` •
-`Production AI`
-
-</div>
-
----
-
-# 💡 Beyond Code
-
-I don't just enjoy writing code.
-
-I enjoy:
-
-📸 **Photography**  
-🎨 **UI/UX Design**  
-🧠 **AI Experimentation**  
-🏆 **Hackathons**  
-🌐 **Building Web Experiences**  
-🔬 **Exploring New Technologies**  
-🚀 **Turning Ideas Into Products**
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:venkatsai1772006@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Talk-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/_venkat_sai_reddy_17_">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+<a href="mailto:venkatsai1772006@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020"/></a>
+<a href="https://instagram.com/_venkat_sai_reddy_17_"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B1020"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Explore-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020"/></a>
 
 <br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1500&color=22D3EE&center=true&vCenter=true&width=500&lines=Code.+Create.+Learn.+Repeat."/>
 
-### 💬 *"Code. Create. Learn. Repeat."*
-
-<br>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,40:2563EB,70:06B6D4,100:0F172A&height=120&section=footer&animation=twinkling"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,40:2563EB,70:06B6D4,100:0B1020&height=140&section=footer&animation=twinkling"/>
 
 </div>
