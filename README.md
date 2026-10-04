@@ -17,8 +17,9 @@
 <br><br>
 
 <a href="mailto:venkatsai1772006@gmail.com"><img src="https://img.shields.io/badge/EMAIL-venkatsai1772006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020"/></a>
-<a href="https://instagram.com/_venkat_sai_reddy_17_"><img src="https://img.shields.io/badge/INSTAGRAM-@__venkat__sai__reddy__17__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B1020"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-YOUR_GITHUB_USERNAME-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020"/></a>
+<a href="https://instagram.com/_venkat_sai_reddy_17_"><img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B1020"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-View%20Profile-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020"/></a>
+<a href="https://www.linkedin.com/in/k-venkat-sai-reddy-b9679933a/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&labelColor=0B1020"/></a>
 
 </div>
 
@@ -256,6 +257,7 @@ Exploring local LLMs, embeddings and retrieval-augmented generation: **Ollama ·
 <a href="mailto:venkatsai1772006@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020"/></a>
 <a href="https://instagram.com/_venkat_sai_reddy_17_"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B1020"/></a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Explore-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020"/></a>
+<a href="https://www.linkedin.com/in/k-venkat-sai-reddy-b9679933a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0B1020"/></a>
 
 <br>
 
